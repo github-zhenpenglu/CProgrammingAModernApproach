@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(CProgrammingAModernApproach main.c)
 add_executable(2-1pun 2-1pun.c)
+add_executable(2-2dweight 2-2dweight.c)
