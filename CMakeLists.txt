@@ -14,3 +14,9 @@ add_executable(4-1upc 4-1upc.c)
 add_executable(5-1date 5-1date.c)
 add_executable(6-1square 6-1square.c)
 add_executable(6-2sum 6-2sum.c)
+add_executable(6-3numdigits 6-3numdigits.c)
+add_executable(6-4square2 6-4square2.c)
+add_executable(6-5square3 6-5square3.c)
+add_executable(6-6checking 6-6checking.c)
+
+
