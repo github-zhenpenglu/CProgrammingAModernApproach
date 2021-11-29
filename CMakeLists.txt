@@ -18,5 +18,8 @@ add_executable(6-3numdigits 6-3numdigits.c)
 add_executable(6-4square2 6-4square2.c)
 add_executable(6-5square3 6-5square3.c)
 add_executable(6-6checking 6-6checking.c)
+add_executable(7-1sum2 7-1sum2.c)
+add_executable(7-2length 7-2length.c)
+add_executable(7-3length2 7-3length2.c)
 
 
