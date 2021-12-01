@@ -21,5 +21,6 @@ add_executable(6-6checking 6-6checking.c)
 add_executable(7-1sum2 7-1sum2.c)
 add_executable(7-2length 7-2length.c)
 add_executable(7-3length2 7-3length2.c)
+add_executable(8-1reverse 8-1reverse.c)
 
 
