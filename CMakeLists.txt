@@ -30,6 +30,7 @@ add_executable(9-1average 9-1average.c)
 add_executable(9-2countdown 9-2countdown.c)
 add_executable(9-3pun2 9-3pun2.c)
 add_executable(9-4prime 9-4prime.c)
+add_executable(9-5qsort 9-5qsort.c)
 
 
 
