@@ -22,5 +22,15 @@ add_executable(7-1sum2 7-1sum2.c)
 add_executable(7-2length 7-2length.c)
 add_executable(7-3length2 7-3length2.c)
 add_executable(8-1reverse 8-1reverse.c)
+add_executable(8-2repdigit 8-2repdigit.c)
+add_executable(8-3interest 8-3interest.c)
+add_executable(8-4deal 8-4deal.c)
+add_executable(8-5reverse 8-5reverse.c)
+add_executable(9-1average 9-1average.c)
+add_executable(9-2countdown 9-2countdown.c)
+add_executable(9-3pun2 9-3pun2.c)
+add_executable(9-4prime 9-4prime.c)
+
+
 
 
