@@ -31,6 +31,10 @@ add_executable(9-2countdown 9-2countdown.c)
 add_executable(9-3pun2 9-3pun2.c)
 add_executable(9-4prime 9-4prime.c)
 add_executable(9-5qsort 9-5qsort.c)
+add_executable(10-1guess 10-1guess.c)
+add_executable(10-2guess2 10-2guess2.c)
+add_executable(10-3poker 10-3poker.c)
+
 
 
 
