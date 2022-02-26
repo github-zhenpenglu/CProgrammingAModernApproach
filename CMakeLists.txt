@@ -34,6 +34,10 @@ add_executable(9-5qsort 9-5qsort.c)
 add_executable(10-1guess 10-1guess.c)
 add_executable(10-2guess2 10-2guess2.c)
 add_executable(10-3poker 10-3poker.c)
+add_executable(11-1maxmin 11-1maxmin.c)
+add_executable(12-1reverse3 12-1reverse3.c)
+
+
 
 
 
