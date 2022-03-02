@@ -1,0 +1,10 @@
+//
+// Created by 卢振鹏 on 2022/3/2.
+//
+
+#ifndef CPROGRAMMINGAMODERNAPPROACH_15_1WORD_H
+#define CPROGRAMMINGAMODERNAPPROACH_15_1WORD_H
+
+void read_word(char *word, int len);
+
+#endif //CPROGRAMMINGAMODERNAPPROACH_15_1WORD_H

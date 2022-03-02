@@ -31,15 +31,17 @@ add_executable(9-2countdown 9-2countdown.c)
 add_executable(9-3pun2 9-3pun2.c)
 add_executable(9-4prime 9-4prime.c)
 add_executable(9-5qsort 9-5qsort.c)
-add_executable(10-1guess 10-1guess.c)
+add_executable(10-1guess 10-1guess.c 15-1word.c)
 add_executable(10-2guess2 10-2guess2.c)
 add_executable(10-3poker 10-3poker.c)
 add_executable(11-1maxmin 11-1maxmin.c)
 add_executable(12-1reverse3 12-1reverse3.c)
-
-
-
-
+add_executable(test test.c)
+add_executable(13-1remind 13-1remind.c)
+add_executable(13-2planet 13-2planet.c)
+add_executable(15-1word 15-1word.h 15-1word.c)
+add_executable(15-1line 15-1line.h 15-1line.c)
+add_executable(15-1justify 15-1justify.c 15-1word.c 15-1line.c)
 
 
 
