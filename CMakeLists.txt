@@ -39,9 +39,9 @@ add_executable(12-1reverse3 12-1reverse3.c)
 add_executable(test test.c)
 add_executable(13-1remind 13-1remind.c)
 add_executable(13-2planet 13-2planet.c)
-add_executable(15-1word 15-1word.h 15-1word.c)
-add_executable(15-1line 15-1line.h 15-1line.c)
 add_executable(15-1justify 15-1justify.c 15-1word.c 15-1line.c)
+add_executable(16-1inventory 16-1inventory.c 16-1readline.c)
+
 
 
 
