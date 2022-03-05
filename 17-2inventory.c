@@ -1,6 +1,5 @@
 //
-// Created by 卢振鹏 on 2022/3/4.
-//
+// Created by 卢振
 
 #include "stdio.h"
 #include "stdlib.h"
