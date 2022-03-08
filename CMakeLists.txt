@@ -45,5 +45,22 @@ add_executable(17-1remind2 17-1remind2.c)
 add_executable(17-2inventory 16-1readline.c 17-2inventory.c)
 add_executable(17-3tabulate 17-3tabulate.c)
 add_executable(19-2stackclient 19-2stackclient.c 19-4stackADT3.c)
+add_executable(20-1xor 20-1xor.c)
+add_executable(20-2viewmemory 20-2viewmemory.c)
+add_executable(22-1canopen 22-1canopen.c)
+add_executable(22-2fcopy 22-2fcopy.c)
+add_executable(22-3invclear 22-3invclear.c)
+add_executable(23-1tchrtest 23-1tchrtest.c)
+add_executable(23-2tcasemap 23-2tcasemap.c)
+add_executable(24-1tsignal 24-1tsignal.c)
+add_executable(24-2tsetjmp 24-2tsetjmp.c)
+add_executable(26-1tnumconv 26-1tnumconv.c)
+add_executable(26-2trand 26-2trand.c)
+add_executable(26-3airmiles 26-3airmiles.c)
+add_executable(26-4datetime 26-4datetime.c)
+add_executable(27-1quadratic 27-1quadratic.c)
+
+
+
 
 
